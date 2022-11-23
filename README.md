@@ -1,4 +1,4 @@
-Hi, I'm Zero! I write words that make things happen!
+The more I learn the less I know!
 
 <!---
 Zer0Juice/Zer0Juice is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
